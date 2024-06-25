@@ -32,6 +32,8 @@ AdoptaMe es una plataforma de adopción de mascotas que permite a los usuarios b
 
 5. **Acceso a la consola web de H2**:
     - Para acceder a la consola web de H2, visita: [http://localhost:8080/h2-console](http://localhost:8080/h2-console)
+    - Usuario: sa
+    - Contraseña: sa
 
 ## Contribuir
 
